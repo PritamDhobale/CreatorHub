@@ -92,7 +92,7 @@ export default function LoginPage() {
 
       {/* Footer (same as AccountHub layout) */}
       <div className="powered-by-text">POWERED BY HUBONE SYSTEMS</div>
-      <p className="footer-text">© 2014–2025 HubOne Systems Inc. – All Rights Reserved</p>
+      <p className="footer-text">© 2014–2026 HubOne Systems Inc. – All Rights Reserved</p>
     </div>
   )
 }
